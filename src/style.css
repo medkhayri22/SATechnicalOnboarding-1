@@ -45,8 +45,18 @@ ul {
     list-style-type: square;
     padding-left: 1.4em;
 }
-.image { 
-    width: 100px;
+.box1{
+    box-shadow: .1em .1em .2em #3011cd;
+    border-radius: .4em;
+    border-width: .01em;
+    border-style: solid;
+    width:100px ;
     height: 200px;
+
+
+}
+.image { 
+    width: inherit;
+    height: inherit;
     border-radius: 2px;
 }

@@ -50,8 +50,9 @@ ul {
     border-radius: .4em;
     border-width: .01em;
     border-style: solid;
-    width:100px ;
-    height: 200px;
+    width:200px ;
+    height: 300px;
+    padding-left: 100px;
 
 
 }

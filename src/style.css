@@ -52,12 +52,12 @@ ul {
     border-style: solid;
     width:200px ;
     height: 300px;
-    padding-left: 100px;
+   
 
 
 }
 .image { 
     width: inherit;
     height: inherit;
-    border-radius: 2px;
+   
 }
